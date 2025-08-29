@@ -1,0 +1,10 @@
+Warehouse,Product,Demand (units),Supply (units),Transportation Cost ($/unit),Lead Time (days)
+Mumbai,Product A,500,600,2.5,3
+Mumbai,Product B,300,200,3.0,4
+Delhi,Product A,400,300,2.0,2
+Delhi,Product B,250,400,2.8,3
+Bangalore,Product A,600,700,3.5,5
+Bangalore,Product B,350,300,3.2,4
+Chennai,Product A,450,500,2.7,3
+Chennai,Product B,300,350,3.1,4
+Hyderabad,Product B,280,320,3.4,3
